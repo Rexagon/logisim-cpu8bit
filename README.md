@@ -1,4 +1,6 @@
 # logisim-cpu8bit
+<img src="https://raw.githubusercontent.com/Rexagon/logisim-cpu8bit/master/sample.png" height="500">
+
 There was too boring evening, so...
 
 8 bit logisim CPU with own assembler
